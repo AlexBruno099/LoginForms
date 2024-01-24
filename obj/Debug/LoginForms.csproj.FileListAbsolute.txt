@@ -1,0 +1,11 @@
+C:\Users\SGBr\Documents\Des\LoginForms\bin\Debug\LoginForms.exe.config
+C:\Users\SGBr\Documents\Des\LoginForms\bin\Debug\LoginForms.exe
+C:\Users\SGBr\Documents\Des\LoginForms\bin\Debug\LoginForms.pdb
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.csproj.AssemblyReference.cache
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.Form1.resources
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.FormLogin.resources
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.Properties.Resources.resources
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.csproj.GenerateResource.cache
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.csproj.CoreCompileInputs.cache
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.exe
+C:\Users\SGBr\Documents\Des\LoginForms\obj\Debug\LoginForms.pdb
